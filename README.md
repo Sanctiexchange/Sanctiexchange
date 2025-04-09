@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanctiexchange
-- 💞️ I’m looking to collaborate with associates 
-- 📫 How to reach me ... Leave a message 
+- I’m looking to collaborate with associates 
+  - How to reach me ... Leave a message 
 - ⚡ Fun fact: ... sometimes things are not the way they seem 
 
 <!---
